@@ -1,0 +1,11 @@
+Algorithm Engineering
+California
+State University
+Fullerton
+College of Engineering and Computer Science
+Department of Computer Science
+Dynamic Programming
+Monge Properties
+String Matching
+Matrix Searching
+Optimal Tree Construction
