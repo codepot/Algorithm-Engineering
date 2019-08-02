@@ -1,0 +1,4 @@
+﻿  EuclideanTravelingSalesperson.cpp
+c:\users\peter\documents\visual studio 2015\projects\assignment3_phucle\euclideantravelingsalesperson\euclideantravelingsalesperson.cpp(96): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  EuclideanTravelingSalesperson.vcxproj -> C:\Users\Peter\documents\visual studio 2015\Projects\Assignment3_PhucLe\Debug\EuclideanTravelingSalesperson.exe
+  EuclideanTravelingSalesperson.vcxproj -> C:\Users\Peter\documents\visual studio 2015\Projects\Assignment3_PhucLe\Debug\EuclideanTravelingSalesperson.pdb (Full PDB)
